@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.meta.xr.simulator": "file:C:/Users/jeraldlt/Downloads/com.meta.xr.simulator-57.0.0.tgz",
     "com.unity.collab-proxy": "2.0.5",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.6",
